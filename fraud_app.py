@@ -181,4 +181,5 @@ elif mode == "Manual Input (Advanced)":
 # --------------------------
 
 st.markdown("---")
-st.caption("Built by omShukla69 · Credit Card Fraud Detection · RandomForest + Explainable AI (SHAP)")
+st.caption("Built by Khushi Katwe · Credit Card Fraud Detection · RandomForest + Explainable AI (SHAP)")
+
